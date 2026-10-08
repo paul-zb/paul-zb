@@ -1,5 +1,5 @@
 # Paul_Zb
-Salut, moi c'est Paul et je suis étudiant ingénieur à l'IG2I – Centrale Lille.  Je suis passionné par l'informatique et plus particulièrement d'IoT, je m'intéresse aussi au développement web et logiciel. (Passions : Drums & Sport)
+Salut, moi c'est Paul et je suis étudiant ingénieur à l'IG2I – Centrale Lille.  Je suis passionné par l'informatique et plus particulièrement par le could & la cybersécurité, je m'intéresse aussi au développement web et logiciel. (Passions : Drums & Sport)
 
 ## Projets
 
